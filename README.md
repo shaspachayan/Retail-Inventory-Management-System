@@ -1,3 +1,5 @@
+For a detailed explanation of this project, please tap here: https://shaspachayan.super.site/projects/projects/retail-inventory-management-system
+
 # Retail-Inventory-Management-System
 
 We defined two classes `Product` and `Order`, using the implementation requirements detailed below:
